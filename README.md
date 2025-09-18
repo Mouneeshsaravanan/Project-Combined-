@@ -1,4 +1,4 @@
-## RAG based Chat Application(Chat Application Merged)
+## RAG based Chat Application (Merged)
 
 An end‑to‑end Streamlit app that lets you:
 
@@ -208,3 +208,4 @@ final project/
 <img width="1917" height="907" alt="Screenshot 2025-09-18 203606" src="https://github.com/user-attachments/assets/9f387a25-256f-45ed-bed9-6912f15baa34" />
 
 <img width="1167" height="902" alt="Screenshot 2025-09-18 203836" src="https://github.com/user-attachments/assets/fc0d7cee-3c1b-46e6-9413-ba6a51c2f483" />
+
