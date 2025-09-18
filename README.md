@@ -1,4 +1,4 @@
-## Techjays RAG Chat App (Streamlit)
+## RAG based Chat Application(Chat Application Merged)
 
 An end‑to‑end Streamlit app that lets you:
 
@@ -199,8 +199,12 @@ final project/
 
 ---
 
-## License
+## OUTPUT
 
-This project is provided as‑is for educational and internal use. Add your preferred license here.
+<img width="1033" height="906" alt="Screenshot 2025-09-18 203512" src="https://github.com/user-attachments/assets/c5486275-0dc3-4aa6-ae57-dee4a6500843" />
 
+<img width="1916" height="911" alt="Screenshot 2025-09-18 203541" src="https://github.com/user-attachments/assets/3f3acde3-8e44-416c-9620-6d5f7b91b3c0" />
 
+<img width="1917" height="907" alt="Screenshot 2025-09-18 203606" src="https://github.com/user-attachments/assets/9f387a25-256f-45ed-bed9-6912f15baa34" />
+
+<img width="1167" height="902" alt="Screenshot 2025-09-18 203836" src="https://github.com/user-attachments/assets/fc0d7cee-3c1b-46e6-9413-ba6a51c2f483" />
